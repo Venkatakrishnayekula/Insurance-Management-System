@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Insurance Management System
 
 This is a capstone project that serves as an Insurance Management System, developed using a Java Spring Boot backend and an Angular frontend. This project follows an industry-level structure and is designed for scalability and maintainability.
@@ -90,3 +91,7 @@ This is a capstone project that serves as an Insurance Management System, develo
 Happy Coding! 🚀
 
 
+=======
+# Insurance-Management-System
+This project is a full-stack Insurance Management System built with a Java Spring Boot backend and an Angular frontend. It enables users to manage insurance policies, clients, and claims efficiently. The backend handles business logic and data persistence, while the frontend provides a user-friendly interface for interaction.
+>>>>>>> 991b57040ed9e9a507321cbb96a08917de13e3b3
